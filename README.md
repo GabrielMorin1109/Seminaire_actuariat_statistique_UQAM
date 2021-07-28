@@ -2,14 +2,13 @@
 Vous trouverez [ici](Slides/) les slides des présentations des séminaires.
 
 ```diff
-- Prochaine présentation : Juan Sebastian Yanez
+- Prochaine présentation : Étienne Bacon
 ```
 
 ---
 Horaire des présentations :
 **Présentateur** | **Date** | **Titre**
 :---: | :---: | :---:
-Juan Sebastian Yanez | 28/07/2021 | Modélisation paramétrique des réserves granulaires en fonction de la durée-fréquence-sévérité
 Étienne Bacon | 04/08/2021 | Analyse de la solution au problème d'exécution optimale dans le cadre d'un modèle de carnet d'ordres limites avec résilience.
 Christopher Blier-Wong | 11/08/2021 | Incertitude paramétrique des réseaux de neurones en tarification IARD
 Tommy Mastromonaco | 18/08/2021 | À confirmer
@@ -36,4 +35,5 @@ Sébastien Jessup | 30/06/2021 | Modèles de pertes non-homogènes avec dépenda
 [Philipp Ratz](https://github.com/phi-ra/collaborative_insurance) | 07/07/2021 | Collaborative Insurance Sustainability and Network Structure
 Roxane Turcotte | 14/07/2021 | Analyse longitudinale de l'impact de la distance parcourue sur la probabilité d'un accident automobile
 Marie Michaelides | 21/07/2021 | Introduction to Solvency II
+Juan Sebastian Yanez | 28/07/2021 | Modélisation paramétrique des réserves granulaires en fonction de la durée-fréquence-sévérité
 
