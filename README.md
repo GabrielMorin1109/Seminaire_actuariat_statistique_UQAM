@@ -2,14 +2,13 @@
 Vous trouverez [ici](Slides/) les slides des présentations des séminaires.
 
 ```diff
-- Prochaine présentation : Christopher Blier-Wong
+- Prochaine présentation : Tommy Mastromonaco
 ```
 
 ---
 Horaire des présentations :
 **Présentateur** | **Date** | **Titre**
 :---: | :---: | :---:
-Christopher Blier-Wong | 11/08/2021 | Incertitude paramétrique des réseaux de neurones en tarification IARD
 Tommy Mastromonaco | 18/08/2021 | Introduction au problème des bandits multi-bras
 
 --- 
@@ -36,4 +35,4 @@ Roxane Turcotte | 14/07/2021 | Analyse longitudinale de l'impact de la distance 
 Marie Michaelides | 21/07/2021 | Introduction to Solvency II
 Juan Sebastian Yanez | 28/07/2021 | Modélisation paramétrique des réserves granulaires en fonction de la durée-fréquence-sévérité
 Étienne Bacon | 04/08/2021 | Analyse de la solution au problème d'exécution optimale dans le cadre d'un modèle de carnet d'ordres limites avec résilience.
-
+[Christopher Blier-Wong](https://github.com/chblw) | 11/08/2021 | Incertitude paramétrique des réseaux de neurones en tarification IARD
