@@ -1,9 +1,6 @@
 # Séminaire d'été d'actuariat et de statistique de l'UQAM
 Vous trouverez [ici](Slides/) les slides des présentations des séminaires.
 
-```diff
-- Prochaine présentation : /
-```
 
 Présentation précédente :
 **Présentateur** | **Date** | **Titre**
