@@ -3,6 +3,7 @@ Vous trouverez [ici](Slides/) les slides des présentations des séminaires.
 
 
 Présentation précédente :
+
 **Présentateur** | **Date** | **Titre**
 :---: | :---: | :---:
 [Francis Duval](https://github.com/francisduval) | 17/06/2021 | Quelle quantité d’information télématique conserver pour prédire les réclamations?
